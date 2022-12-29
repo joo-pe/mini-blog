@@ -71,3 +71,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 ### npm install --save react-router-dom styled-components
+
+### 빌드 순서
+
+npm run build   -> 하고 나면 build 폴더가 생긴다
+
+npm install -g serve 
+
+serve -s build
