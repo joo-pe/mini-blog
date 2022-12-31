@@ -79,3 +79,7 @@ npm run build   -> 하고 나면 build 폴더가 생긴다
 npm install -g serve 
 
 serve -s build
+
+### 신규 프로젝트 생성
+
+npx create-react-app joo-app
